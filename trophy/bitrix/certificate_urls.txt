@@ -1,0 +1,17 @@
+Администратор-Базовый - https://www.1c-bitrix.ru/partners/check_cert.php?cert=LRN-359776-35-859-5214414
+
+Администратор-Бизнес - https://www.1c-bitrix.ru/partners/check_cert.php?cert=LRN-365626-42-415-5214414
+
+Администратор-Модули - https://www.1c-bitrix.ru/partners/check_cert.php?cert=LRN-365548-41-423-5214414
+
+Интеграция_с_1С - https://www.1c-bitrix.ru/partners/check_cert.php?cert=LRN-374598-131-128-5214414
+
+Контент-менеджер - https://www.1c-bitrix.ru/partners/check_cert.php?cert=LRN-357324-34-954-5214414
+
+Разработчик_Bitrix_Framework - https://www.1c-bitrix.ru/partners/check_cert.php?cert=LRN-366568-43-1542-5214414
+
+Разработчик_Bitrix_Framework-Интеграция дизайна и настройка платформы - https://www.1c-bitrix.ru/partners/check_cert.php?cert=CERT-EX-DEV-010-14034510-5214414-661093
+
+Разработчик_Bitrix_Framework-Основные технологии и расширение типовых возможностей системы - https://www.1c-bitrix.ru/partners/check_cert.php?cert=CERT-EX-DEV-020-14661476-5214414-327029
+
+Технология_Композитный_сайт - https://www.1c-bitrix.ru/partners/check_cert.php?cert=LRN-369054-39-124-5214414
